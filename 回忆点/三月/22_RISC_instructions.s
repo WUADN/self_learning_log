@@ -5,3 +5,5 @@ main:
   la t0, n
 
 a0   #always first return values
+
+sw ra, 0(sp)
