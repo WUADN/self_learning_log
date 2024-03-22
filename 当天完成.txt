@@ -1,3 +1,4 @@
 1. 阅读 [https://inst.eecs.berkeley.edu/~cs61c/fa23/resources/venus-reference/]
 2. 尝试重新优化记忆汇编表，以及新的presudo命令，练习压栈操作。
 3. 阅读RISC书剩余部分内容
+4. 希尔排序？
