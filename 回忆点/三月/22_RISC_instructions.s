@@ -1,2 +1,7 @@
 la reg, data  #load address of the data
-a0 #always first return values
+.data
+n: .word 8  #word: the size, 12:the value in decimal
+main:
+  la t0, n
+
+a0   #always first return values
