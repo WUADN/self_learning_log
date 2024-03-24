@@ -40,7 +40,7 @@ mv a1, memory_size
 ecall
 
 # Set register a0 to 9 (Free Memory)
-Free_Memory：
+free_memory：
 li a0, 9
 # The address of the memory to be freed is in a1
 mv a1, memory_address
